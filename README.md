@@ -4,6 +4,14 @@ A list of the snap packages that Wasta-Linux users might find useful.
 
 Depending on your system, you may be able to find most of these in your built-in software manager app. If not, the terminal install commands are given below.
 
+## Audacity
+
+[Audacity](https://www.audacityteam.org/) is an easy-to-use, multi-track audio editor and recorder.
+```bash
+snap install audacity
+```
+https://github.com/diddlesnaps/audacity
+
 ## laMETA
 
 [Lameta](https://www.lameta.org) is a metadata tool to help with organising collections of files.
@@ -33,3 +41,12 @@ This snap package installs WINE to run [Map Creator](http://fmosoft.com/map-crea
 snap install map-creator-unofficial
 ```
 https://github.com/wasta-linux/map-creator-snap
+
+## Paratext Lite
+
+Paratext Lite allows users of Paratext 8 and 9 to read and edit their project data on an Android tablet, phone, or Linux or MacOS computer. This is useful for comprehension checking and for simple editing comparable to what can be done in Paratext's Basic view.
+
+```bash
+snap install paratextlite
+```
+https://snapcraft.io/paratextlite
