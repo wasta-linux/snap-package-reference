@@ -80,6 +80,8 @@ https://software.sil.org/asheninka/
 
 ### Cog (via WINE)
 
+Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties.
+
 https://software.sil.org/cog/
 
 ### Keyman Developer
