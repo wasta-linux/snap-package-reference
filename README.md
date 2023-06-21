@@ -74,10 +74,15 @@ https://github.com/wasta-linux/map-creator-snap
 
 ## Apps under consideration
 
-### Cog (via WINE)
+### Cog (via WINE; .NET 4.8)
 
 Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties.
 https://software.sil.org/cog/
+
+### HearThis (via WINE; .NET 4.8)
+
+Bible recording made easy! HearThis provides a do-it-yourself alternative for communities wanting to get translated scripture text into their own language.
+https://github.com/sillsdev/hearthis/
 
 ### Keyman Developer
 
@@ -89,7 +94,7 @@ https://github.com/keymanapp/keyman
 OneStory Editor is documentation software for Oral Bible storying.
 https://github.com/bobeaton/OneStoryEditor
 
-### PrimerPro (via WINE; .NET 3.5sp1)
+### PrimerPro (via WINE; .NET 3.5sp1?)
 
 Assists literacy workers by making it simpler to develop primers. It does tedious work which native authors and literacy specialists traditionally had to do themselves.
 https://github.com/sillsdev/PrimerPro
