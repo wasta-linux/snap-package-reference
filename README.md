@@ -74,14 +74,9 @@ https://github.com/wasta-linux/map-creator-snap
 
 ## Apps under consideration
 
-### Asheninka
-
-https://software.sil.org/asheninka/
-
 ### Cog (via WINE)
 
 Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties.
-
 https://software.sil.org/cog/
 
 ### Keyman Developer
@@ -89,7 +84,12 @@ https://software.sil.org/cog/
 [Keyman Developer 16](https://keyman.com/developer/features.php) is the most powerful tool for creating keyboard layouts for any popular platform for any language around the world. Build keyboards layouts for desktop, web, tablet and phone. Optimise your keyboards for each platform, including touch-and-hold keys and alternative layers.
 https://github.com/keymanapp/keyman
 
-### PrimerPrep
+### OneStory Editor (via WINE; .NET 4.8)
 
-Tool that helps in preparing a literacy primer.
-https://github.com/jeffheath-sil/PrimerPrep
+OneStory Editor is documentation software for Oral Bible storying.
+https://github.com/bobeaton/OneStoryEditor
+
+### PrimerPro (via WINE; .NET 3.5sp1)
+
+Assists literacy workers by making it simpler to develop primers. It does tedious work which native authors and literacy specialists traditionally had to do themselves.
+https://github.com/sillsdev/PrimerPro
